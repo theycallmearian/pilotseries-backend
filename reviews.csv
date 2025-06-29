@@ -1,0 +1,101 @@
+userEmail;serieTitulo;rating;comentario;fecha
+user5@example.com;Narcos;1.2;Decepcionante;15/02/2025
+user1@example.com;The Witcher;1.3;Regular tirando a mal;27/11/2024
+user9@example.com;Narcos;1.3;Muy mala;06/05/2025
+user1@example.com;The Crown;1.5;Muy pesada;29/02/2024
+user15@example.com;Westworld;1.5;Aburrida;01/03/2024
+user10@example.com;The Witcher;1.5;Demasiado lenta;25/09/2024
+user15@example.com;The Crown;2;Fatal;15/06/2024
+user14@example.com;Game of Thrones;2.1;No me gusta;25/05/2025
+user6@example.com;The Witcher;2.2;Muy regular;20/01/2024
+user11@example.com;Lost;2.5;Mal final;14/06/2025
+user18@example.com;Game of Thrones;2.5;No recomendada;21/11/2024
+user9@example.com;Friends;3.4;No me gusto;04/02/2024
+user16@example.com;The Office;3.5;Historia lenta;04/02/2024
+user12@example.com;Narcos;3.7;Regular;10/09/2024
+user10@example.com;The Office;3.8;Historia lenta;19/08/2024
+user12@example.com;The Witcher;3.9;Bastante buena;06/04/2024
+user17@example.com;The Crown;3.9;Trama muy lenta;29/11/2024
+user2@example.com;The Witcher;4.3;Recomendada;27/02/2024
+user15@example.com;The Crown;4.4;Genial;08/08/2024
+user1@example.com;Friends;4.6;Regular;12/11/2024
+user12@example.com;Chernobyl;5;Excelente serie;21/01/2025
+user13@example.com;Game of Thrones;5.1;Historia lenta;30/12/2024
+user20@example.com;The Office;5.3;Muy emocionante;11/01/2024
+user8@example.com;The Witcher;5.3;Historia lenta;04/04/2025
+user1@example.com;The Crown;5.4;No me gusta;28/08/2024
+user15@example.com;Friends;5.6;Muy emocionante;20/01/2024
+user8@example.com;Breaking Bad;5.7;Bastante buena;30/11/2024
+user16@example.com;Stranger Things;5.7;Regular;07/06/2025
+user17@example.com;The Office;5.8;Excelente serie;29/08/2024
+user5@example.com;Game of Thrones;5.8;Actuaciones brillantes;25/07/2024
+user14@example.com;The Office;5.9;Buena trama;03/07/2024
+user18@example.com;Westworld;4;No me gusta;10/07/2024
+user16@example.com;The Office;6;Actuaciones brillantes;13/03/2024
+user19@example.com;The Witcher;6;Recomendada;15/05/2024
+user17@example.com;The Office;6;Actuaciones brillantes;25/07/2024
+user13@example.com;Chernobyl;6;Historia lenta;16/07/2024
+user18@example.com;The Crown;6;Bastante buena;22/01/2025
+user6@example.com;Friends;6.3;Excelente serie;29/04/2025
+user3@example.com;Breaking Bad;6.3;Bastante buena;21/09/2024
+user12@example.com;Westworld;6.3;Regular;10/04/2025
+user20@example.com;Chernobyl;6.3;Muy emocionante;02/01/2024
+user2@example.com;Westworld;6.4;Genial;19/02/2025
+user6@example.com;The Witcher;6.4;Actuaciones brillantes;13/05/2024
+user3@example.com;Chernobyl;6.4;Recomendada;25/11/2024
+user4@example.com;Breaking Bad;6.5;Muy emocionante;10/03/2025
+user6@example.com;The Crown;6.5;Trama buena;13/04/2025
+user1@example.com;Game of Thrones;6.5;Bastante buena;28/06/2024
+user8@example.com;Friends;3;No me gusta;31/05/2024
+user19@example.com;The Office;6.6;Historia lenta;21/09/2024
+user15@example.com;Stranger Things;6.7;Reparto fabuloso;06/06/2025
+user3@example.com;The Office;6.7;Regular;16/02/2024
+user14@example.com;Stranger Things;6.7;Muy emocionante;20/01/2024
+user18@example.com;Game of Thrones;6.7;Bastante buena;12/03/2025
+user16@example.com;Friends;6.8;Genial;04/06/2024
+user19@example.com;Chernobyl;6.8;Recomendada;18/02/2025
+user8@example.com;The Crown;1;No me gusta;21/06/2025
+user20@example.com;Westworld;6.9;Bastante buena;05/07/2024
+user7@example.com;Breaking Bad;7;Enamorada de Walter;08/11/2024
+user6@example.com;Chernobyl;7;Genial;01/08/2024
+user5@example.com;The Witcher;7;Bastante buena;03/09/2024
+user15@example.com;The Office;7.1;Historia lenta;15/06/2025
+user12@example.com;The Office;7.1;Historia lenta;29/02/2024
+user12@example.com;Friends;3;No me gusta;23/10/2024
+user20@example.com;Breaking Bad;7.3;Genial;14/03/2024
+user5@example.com;Breaking Bad;7.5;Bastante buena;25/09/2024
+user16@example.com;Chernobyl;7.5;Explosiva;22/02/2024
+user3@example.com;Stranger Things;7.6;Un poco rara;11/06/2025
+user1@example.com;The Witcher;7.6;No me gusta;11/05/2024
+user4@example.com;Breaking Bad;7.6;Muy emocionante;11/08/2024
+user2@example.com;The Witcher;4;No me gusta;07/02/2025
+user20@example.com;Chernobyl;7.8;Actuaciones brillantes;27/02/2025
+user12@example.com;Game of Thrones;7.9;Muy emocionante;28/03/2024
+user15@example.com;Narcos;7.9;Bastante buena;10/01/2024
+user3@example.com;The Witcher;7.9;Buena trama;23/09/2024
+user15@example.com;The Office;3;Regular;27/12/2024
+user11@example.com;The Witcher;8.1;Me gusta bastante;15/12/2024
+user5@example.com;Breaking Bad;8.1;Historia lenta;09/03/2025
+user18@example.com;Stranger Things;8.1;Excelente serie;18/05/2025
+user3@example.com;The Crown;8.2;Fabulosa;29/04/2024
+user17@example.com;Stranger Things;8.3;Excelente serie;12/02/2024
+user20@example.com;The Crown;8.3;Genial;05/01/2025
+user8@example.com;Friends;8.3;Excelente serie;12/03/2025
+user9@example.com;Breaking Bad;8.5;Recomendada;13/05/2025
+user4@example.com;Narcos;8.8;Excelente serie;28/02/2025
+user2@example.com;Game of Thrones;9;Actuaciones brillantes;02/09/2024
+user15@example.com;Westworld;9;Actuaciones brillantes;13/06/2025
+user5@example.com;Stranger Things;9.1;Muy emocionante;02/03/2024
+user8@example.com;Chernobyl;9.2;Excelente serie;17/01/2024
+user4@example.com;The Crown;9.2;Excelente serie;22/02/2025
+user1@example.com;Westworld;9.4;Actuaciones brillantes;20/06/2024
+user14@example.com;The Crown;9.4;Enamorada de la trama.;29/05/2025
+user13@example.com;Game of Thrones;9.5;Me encanta.;30/12/2024
+user1@example.com;The Office;9.7;Excelente serie;03/06/2024
+user20@example.com;Game of Thrones;9.7;Maravillosa;16/02/2024
+user1@example.com;Chernobyl;9.9;Actuaciones brillantes;27/09/2024
+user9@example.com;The Crown;9.9;¡Flipante!;08/06/2025
+user20@example.com;Stranger Things;9.9;Deseando ver su final, es brillante.;21/03/2024
+user4@example.com;Breaking Bad;9.9;Genial;26/01/2024
+user17@example.com;Breaking Bad;10;Genial;20/04/2024
+user6@example.com;Breaking Bad;10;Excelente serie;21/01/2025

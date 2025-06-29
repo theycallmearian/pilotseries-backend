@@ -1,0 +1,22 @@
+const express = require('express')
+const router = express.Router()
+const ctrl = require('../controllers/seriesController')
+const { auth, isAdmin } = require('../middlewares/auth')
+const multer = require('multer')
+const upload = multer({ dest: 'uploads/' })
+
+router.get('/', ctrl.getAllSeries)
+router.get('/:id', ctrl.getSerieById)
+router.post('/', auth, isAdmin, upload.single('urlImagen'), ctrl.createSerie)
+router.put('/:id', auth, isAdmin, upload.single('urlImagen'), ctrl.updateSerie)
+router.delete('/:id', auth, isAdmin, ctrl.deleteSerie)
+router.post('/:id/rate', auth, ctrl.rateSerie)
+router.post('/:id/follow', auth, ctrl.followSerie)
+router.post('/:id/unfollow', auth, ctrl.unfollowSerie)
+router.post('/:id/favorite', auth, ctrl.favoriteSerie)
+router.post('/:id/unfavorite', auth, ctrl.unfavoriteSerie)
+router.post('/:id/finish', auth, ctrl.finishSerie)
+router.post('/:id/unfinish', auth, ctrl.unfinishSerie)
+router.post('/:id/reviews', auth, ctrl.addReview)
+
+module.exports = router
