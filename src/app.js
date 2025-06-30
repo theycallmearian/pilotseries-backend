@@ -6,6 +6,10 @@ require('dotenv').config()
 const app = express()
 app.use(express.json())
 
+const allowed = process.env.ORIGINS?.split(',') || ['*']
+app.use(cors({ origin: allowed }))
+
+
 mongoose
   .connect(process.env.MONGODB_URI, {
     useNewUrlParser: true,
